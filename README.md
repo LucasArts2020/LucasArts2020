@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Lima
+# 👩🏻‍💻 Lucas
 
 **`Desenvolvedor FullStack`**
 
