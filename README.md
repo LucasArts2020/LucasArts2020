@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Opa! Me chamo Lucas Lima De Menezes, tenho 18 anos. Possuo experiência no desenvolvimento de APIs utilizando JavaScript, Php, Java, Python e Rust, além de habilidades em manipulação e modelagem de dados com Banco de Dados. Participei de projetos acadêmicos voltados para soluções sociais e desenvolvi otimizações de processos para
+Opa! Me chamo Lucas Lima De Menezes, tenho 19 anos. Possuo experiência no desenvolvimento de APIs utilizando JavaScript, Php, Java, Python e Rust, além de habilidades em manipulação e modelagem de dados com Banco de Dados. Participei de projetos acadêmicos voltados para soluções sociais e desenvolvi otimizações de processos para
 aumentar a eficiência.
 
 ---
