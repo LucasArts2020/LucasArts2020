@@ -1,3 +1,3 @@
-# HI, I'm Lucas! 👋
+### HI, I'm Lucas! 👋
 
-(https://portfolioarts.vercel.app/)
+https://portfolioarts.vercel.app/
